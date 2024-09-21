@@ -8,4 +8,4 @@
 math = 20 + 20
 math2 = math - 10
 math3 = math2 * 8 
-print(math3) 
+print(math3)

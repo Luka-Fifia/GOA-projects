@@ -7,13 +7,9 @@ first = input("enter first number ")
 
 second = input("enter second number ")
 
-a = "+"
-b = "-"
-c = "*"
-d = "/"
 
 
-print(a + "   " + int(first) + int(second))
+print(int(first) + int(second))
 print(int(first) - int(second))
 print(int(first) * int(second))
 print(int(first) / int(second))

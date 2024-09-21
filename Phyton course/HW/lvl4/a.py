@@ -3,7 +3,7 @@
 
 
 
-name = input(int("enter your name: "))
+name = input("enter your name: ")
 name1 = "name: "
 last_name = input("enter your last name: ")
 last_name1 = "last name: "
